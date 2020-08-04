@@ -1,0 +1,4 @@
+_svd: iCEBESOC.svd
+
+_derive:
+  OLED_SPI2: OLED_SPI
